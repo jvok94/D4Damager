@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tarot)(type Legacy)(uri ${KIPRJMOD}/../tarot.lib)(options "")(descr ""))
+)
