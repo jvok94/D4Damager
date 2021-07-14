@@ -1037,14 +1037,12 @@ Text Notes 4050 5000 0    50   ~ 0
 Variant\n\nComms\nAM NA\nAM RoW\nFM NA\nFM RoW
 Text Notes 4450 5000 0    50   ~ 0
 Pole\n\nN/A\n2122Hz\n2122Hz\n2122Hz\n3183Hz
-Text Notes 4850 5000 0    50   ~ 0
-Zero\n\nN/A\n8.7kHz\n7.8kHz\n30kHz\n30kHz
 Text Notes 5600 5000 0    50   ~ 0
-R8/R16\n\nN/A\n3.9k\n7.5k\n1.3k\n3.6k
+R8/R16\n\nN/A\n3.9k\n5.1k\n1.3k\n3.6k
 Text Notes 5200 5000 0    50   ~ 0
-R7/R15\n\nN/A\n12k\n20k\n18k\n30k
+R7/R15\n\nN/A\n12k\n8k2\n18k\n30k
 Text Notes 6000 5000 0    50   ~ 0
-C7/C10\n\nN/A\n4.7n\n2.7n\n3.9n\n1.5n
+C7/C10\n\nN/A\n4.7n\n5.6n\n3.9n\n1.5n
 Wire Notes Line style solid
 	4000 4400 6350 4400
 Wire Notes Line style solid
@@ -1929,4 +1927,6 @@ F 3 "" H 4450 6800 50  0001 C CNN
 	1    4450 6800
 	1    0    0    -1  
 $EndComp
+Text Notes 4850 5000 0    50   ~ 0
+Zero\n\nN/A\n8.7kHz\n5.7kHz\n30kHz\n30kHz
 $EndSCHEMATC
