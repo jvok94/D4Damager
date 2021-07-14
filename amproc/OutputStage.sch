@@ -489,16 +489,6 @@ Wire Wire Line
 Wire Wire Line
 	8650 2600 8650 2700
 Connection ~ 8650 2700
-Text Notes 7400 4950 0    50   ~ 0
-Low-pass\n\n3.4kHz\n5kHz\n4.5kHz\n15kHz\n15kHz
-Text Notes 7850 4950 0    50   ~ 0
-R31\n\n12k\n18k\n24k\n1.6k\n1.6k
-Text Notes 8100 4950 0    50   ~ 0
-R32\n\n8.2k\n2k\n2.7k\n43k\n43k
-Text Notes 8350 4950 0    50   ~ 0
-C10\n\n2.7n\n1.8n\n1.5n\n270p\n270p
-Text Notes 8650 4950 0    50   ~ 0
-C11\n\n5.6n\n10n\n8.2n\n3.9n\n3.9n
 Wire Notes Line style solid
 	7350 4350 7350 5000
 Wire Notes Line style solid
@@ -566,4 +556,14 @@ Wire Notes Line
 	6750 2350 6750 4550
 Wire Notes Line
 	5250 2350 5250 4550
+Text Notes 7400 4950 0    50   ~ 0
+Low-pass\n\n3.4kHz\n10kHz\n6.5kHz\n15kHz\n15kHz
+Text Notes 8100 4950 0    50   ~ 0
+R32\n\n8.2k\n15k\n22k\n43k\n43k
+Text Notes 8350 4950 0    50   ~ 0
+C10\n\n2.7n\n470p\n470p\n270p\n270p
+Text Notes 8650 4950 0    50   ~ 0
+C11\n\n5.6n\n1n\n1n\n3.9n\n3.9n
+Text Notes 7850 4950 0    50   ~ 0
+R31\n\n12k\n24k\n36k\n1.6k\n1.6k
 $EndSCHEMATC

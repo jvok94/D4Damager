@@ -340,19 +340,19 @@ Connection ~ 5650 2950
 Wire Wire Line
 	5650 2950 6500 2950
 Text Notes 7350 4300 0    50   ~ 0
-Low-pass\n\n3.4kHz\n5kHz\n4.5kHz\n15kHz\n15kHz
+Low-pass\n\n3.4kHz\n10kHz\n6.5kHz\n15kHz\n15kHz
 Text Notes 6850 4300 0    50   ~ 0
 High-pass\n\n300Hz\n30Hz\n30Hz\n30Hz\n30Hz
 Text Notes 8300 4300 0    50   ~ 0
 C24\n\n15n\n150n\n150n\n150n\n150n
 Text Notes 7800 4300 0    50   ~ 0
-R45\n\n12k\n18k\n24k\n1.6k\n1.6k
+R45\n\n12k\n24k\n36k\n1.6k\n1.6k
 Text Notes 8050 4300 0    50   ~ 0
-R46\n\n8.2k\n2k\n2.7k\n43k\n43k
+R46\n\n8.2k\n15k\n22k\n43k\n43k
 Text Notes 8600 4300 0    50   ~ 0
-C27\n\n2.7n\n1.8n\n1.5n\n270p\n270p
+C27\n\n2.7n\n470p\n470p\n270p\n270p
 Text Notes 8900 4300 0    50   ~ 0
-C28\n\n5.6n\n10n\n8.2n\n3.9n\n3.9n
+C28\n\n5.6n\n1n\n1n\n3.9n\n3.9n
 Wire Notes Line style solid
 	9150 3700 9150 4350
 Wire Notes Line style solid
