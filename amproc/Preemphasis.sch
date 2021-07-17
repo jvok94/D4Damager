@@ -651,10 +651,6 @@ Text Notes 3450 6450 0    50   ~ 0
 Pole\n\nN/A\n8.7kHz\n5.7kHz\n30kHz\n30kHz
 Text Notes 3800 6450 0    50   ~ 0
 R14\n\nN/A\n75k\n75k\n75k\n51k
-Text Notes 4050 6450 0    50   ~ 0
-R20\n\nN/A\n3.9k\n5.1k\n1.3k\n3.6k
-Text Notes 4300 6450 0    50   ~ 0
-R21\n\nN/A\n12k\n8.2k\n18k\n30k
 Wire Notes Line style solid
 	3000 5850 3000 6500
 Wire Notes Line style solid
@@ -667,8 +663,6 @@ Wire Notes Line style solid
 	4250 5850 4250 6500
 Wire Notes Line style solid
 	4500 6500 4500 5850
-Text Notes 4550 6450 0    50   ~ 0
-C5\n\nN/A\n4.7n\n5.6n\n3.9n\n1.5n
 Wire Notes Line style solid
 	2600 5850 4750 5850
 Wire Notes Line style solid
@@ -777,4 +771,10 @@ Wire Wire Line
 Wire Wire Line
 	3150 5200 3150 5250
 Connection ~ 3150 5200
+Text Notes 4550 6450 0    50   ~ 0
+C5\n\nN/A\n4.7n\n5.6n\n4.7n\n1.5n
+Text Notes 4300 6450 0    50   ~ 0
+R21\n\nN/A\n12k\n8.2k\n15k\n30k
+Text Notes 4050 6450 0    50   ~ 0
+R20\n\nN/A\n3.9k\n5.1k\n1.1k\n3.6k
 $EndSCHEMATC
