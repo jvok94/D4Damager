@@ -2657,7 +2657,7 @@
       (reference "R9") (unit 1) (value "10k") (footprint "amproc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_FabText")
     )
     (path "/00000000-0000-0000-0000-00005fe29a40/00000000-0000-0000-0000-00005fe818b7"
-      (reference "R10") (unit 1) (value "100k") (footprint "amproc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_FabText")
+      (reference "R10") (unit 1) (value "430k") (footprint "amproc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_FabText")
     )
     (path "/00000000-0000-0000-0000-00005fe29a40/00000000-0000-0000-0000-00005fe8ac15"
       (reference "R11") (unit 1) (value "10k") (footprint "amproc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_FabText")

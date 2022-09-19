@@ -1504,7 +1504,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6dc91c93-d0dd-4b41-847d-6ce46d61f69e)
   )
-  (text "Fixed attack time: 1ms\nMinimum release time: 11ms\nMaximum release time: 111ms"
+  (text "Fixed attack time: 1ms\nMinimum release time: 45ms\nMaximum release time: 111ms"
     (at 152.4 49.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ed3db3d-1655-4322-944c-a3d02ae01747)
@@ -1879,7 +1879,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fe818b7)
     (property "Reference" "R10" (id 0) (at 172.72 60.7822 90))
-    (property "Value" "100k" (id 1) (at 172.72 63.0936 90))
+    (property "Value" "430k" (id 1) (at 172.72 63.0936 90))
     (property "Footprint" "amproc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_FabText" (id 2) (at 172.72 64.262 90)
       (effects (font (size 1.27 1.27)) hide)
     )
